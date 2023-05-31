@@ -1,0 +1,5 @@
+print("Enter text:\n")
+a = input()
+b = a.capitalize()
+print(b)
+print("Easy")
